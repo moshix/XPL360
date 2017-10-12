@@ -1,0 +1,33 @@
+VOL=XPLXPL  OWNER=HERCULES       TAPE ANALYSIS PROGRAM   (T A P E M A P)  V2.3          SUNDAY     SEP 21, 1980  (80.265)  16:16:27
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+XPL.SOURCE        (FILE 0001) WAS UNLOADED BY IEBCOPY...  WAS:  DSORG=PO   LRECL=80      RECFM=FB      BLKSIZE=9440    UNIT=3350
+
+               FOLLOWING MEMBERS UNLOADED:
+
+               $$README  ALTER     ANALYZER  PROSE     REFORM    SKELETON  TRACE     XCOM      XMON      XPLBNF
+               XPLLIBR
+
+************************************************************************************************************************************
+
+
+XPL.OBJECT        (FILE 0002) WAS UNLOADED BY IEBCOPY...  WAS:  DSORG=PO   LRECL=7200    RECFM=F       BLKSIZE=7200    UNIT=3350
+
+               FOLLOWING MEMBERS UNLOADED:
+
+               ALTER     ANALYZER  XCOM
+
+************************************************************************************************************************************
+
+
+XPL.LOAD          (FILE 0003) WAS UNLOADED BY IEBCOPY...  WAS:  DSORG=PO   LRECL=0       RECFM=U       BLKSIZE=19069   UNIT=3350
+
+               FOLLOWING MEMBERS UNLOADED:
+
+               REFORM    TRACE     XPLSM
+
+************************************************************************************************************************************
+
+
+     *** EOV ***
