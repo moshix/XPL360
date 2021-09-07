@@ -1,3 +1,5 @@
+
+[![Discord](https://img.shields.io/discord/423767742546575361.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
 # XPL360
 
 
@@ -10,3 +12,5 @@ More info here: http://www.cs.toronto.edu/XPL/
 Enjoy!
 
 Moshix
+<br>
+September 2021
